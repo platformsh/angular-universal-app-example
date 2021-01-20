@@ -16,4 +16,3 @@ hooks:
 web:
     commands:
         start: NODE_ENV=production npm run serve:ssr
-
